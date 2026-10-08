@@ -4,7 +4,7 @@ Backend-focused Full-Stack Developer with 3 years of experience building APIs fo
 
 - 🔭 Currently working with **NestJS, TypeScript, MySQL/PostgreSQL, and Redis**
 - 🌱 Deepening my backend skills — system design, security hardening, and cloud deployment (AWS)
-- 📫 Reach me at **lysandertrabajos@gmail.com** or [LinkedIn](https://mx.linkedin.com/in/lysander-paniagua-425794216/en)
+- 📫 Reach me at **lysanderjobs@gmail.com** or [LinkedIn](https://mx.linkedin.com/in/lysander-paniagua-425794216/en)
 - 📍 Based in Guadalajara, Mexico
 
 ---
